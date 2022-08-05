@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Hanyi';
+    src: url('../fonts/zh-cn.ttf') format('truetype');
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* html {
+    background-image: url('../Images/venti.jpg');
+    background-size: cover;
+    height: 100%;
+    opacity: 90%; 
+} */
+
+h1, h2, p {
+    font-family: 'Hanyi';
+}
+
+div#welcome {
+    position: relative;
+    text-align: center;
+}
+
+div#welcome img {
+    display: block;
+    margin: 0 auto;
+}
+
+div#welcome h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: fadeIn 2s;
+    font-size: 4em;
+}
+
+h2#start {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: fadeIn 4s;
+}
+
+h2#start a {
+    color: black;
+}
+
+h2#start a:hover {
+    color: green;
+}
+
+h2#start:hover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: fadeIn 4s;
+}
