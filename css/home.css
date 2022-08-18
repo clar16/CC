@@ -23,23 +23,27 @@ body {
     width: 100%;
     max-width: 1250px;
     min-width: 640px;
+    border-radius: 20px;
     background-color: rgba(255, 255, 255, 0.5);
 }
 
-div#header {
-    /* display: flex; */
-    /* justify-content: center;
-    align-items: center;
-    overflow: hidden;*/
-}
-
-
-div#header img {
+div#header 
+img {
     width: 100%;
     height: 500px;
     margin: 0;
 }
+
 section#about-us {
     top: 50%;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 
 }
+
