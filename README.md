@@ -9,3 +9,16 @@ Thank you!
 Credits
 Source: https://www.digitaltrends.com/gaming/what-is-genshin-impact/
 Source: https://genshin-impact.fandom.com/wiki/Genshin_Impact
+
+Clarisse part:
+Welcome page
+Logoutpage
+Home page
+About Genshin
+Google form
+
+Cyrus part:
+Genshin History page
+Quiz page
+Feedback page
+Google form
