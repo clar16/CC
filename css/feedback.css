@@ -11,7 +11,7 @@
 }
 
 html {
-    background: url('../images/klee.jpg');
+    background: url('../images/albedo.jpg');
     opacity: 80%;
     background-size: cover;
     height: 100%;
@@ -23,6 +23,7 @@ body {
     width: 100%;
     max-width: 1250px;
     min-width: 640px;
+    border-radius: 20px;
     background-color: rgba(255, 255, 255, 0.5);
 }
 
