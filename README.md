@@ -22,3 +22,6 @@ Genshin History page
 Quiz page
 Feedback page
 Google form
+
+Github page: https://github.com/clar16/CC.git
+Video link: https://drive.google.com/file/d/1yYO12prCH-1TGzCrK8DZZl0PAz9VyZ_9/view?usp=sharing
